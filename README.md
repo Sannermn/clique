@@ -1,3 +1,2 @@
-# https://sannermn.github.io/twentyonepilots
+# https://sannermn.github.io/clique
 
-this is for vøid i guess
